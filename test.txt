@@ -1,1 +1,2 @@
 This is test.txt
+This file changed in the local folder.
